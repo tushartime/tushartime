@@ -30,16 +30,7 @@
 
 ---
 
-### 📊 GitHub Insights  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tushartime&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartime&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushartime&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -50,11 +41,7 @@
 
 ---
 
-### 🏆 Achievements & Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushartime&theme=tokyonight&margin-w=10&margin-h=10&column=6" alt="Trophies" />
-</p>
 
 ---
 
