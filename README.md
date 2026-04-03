@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tushar-sharma-075425297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://tushartime.github.io/Protfolio/" target="_blank">
+  <a href="https://tushartime.github.io/Protfolio/" target="https://protfolio-ashy-nu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/tushartime" target="_blank">
