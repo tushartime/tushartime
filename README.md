@@ -1,4 +1,4 @@
-# <!-- Profile README for @tushartime -->
+<!-- Profile README for @tushartime -->
 
 <h1 align="center">👋 Hey, I'm Tushar Sharma</h1>
 <h3 align="center">🤖 AI/ML Engineer & Full-Stack Developer | GenAI • RAG • LangChain • React • Next.js</h3>
@@ -8,17 +8,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-sharma-075425297/" target="_blank">
+  <a href="https://www.linkedin.com/in/tushar-sharma-india/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://tushartime.github.io/Protfolio/" target="https://protfolio-ashy-nu.vercel.app/">
+  <a href="https://protfolio-ashy-nu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/tushartime" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:timetusharsharma@gmail.com">
+  <a href="mailto:timetusharindia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tushartime/Resume/blob/main/Tushar%20AI%20ENG%20REsume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
@@ -61,7 +64,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
@@ -70,9 +73,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🎬 MovieMind](https://github.com/tushartime) | AI movie recommendation system with **RAG + FAISS** vector search and LLM responses | Python, FAISS, FastAPI, NLP |
-| [🔬 Autoresearch](https://github.com/tushartime) | Autonomous AI agent that researches & writes 1,500+ word articles — **80% less manual effort** | LangGraph, Python, LLMs |
-| [🎯 Sarthi](https://github.com/tushartime) | AI-powered webinar & sales platform — **45% higher lead conversion** via voice AI agents | Next.js, Node.js, Vapi AI, PostgreSQL |
+| [🎬 MovieMind](https://github.com/tushartime/movie_recommendation_ml-rag-) | AI movie recommendation system with **RAG + FAISS** vector search and LLM responses | Python, FAISS, FastAPI, NLP |
+| [🔬 Autoresearch](https://github.com/tushartime/autoresearch) | Autonomous AI agent that researches & writes 1,500+ word articles — **80% less manual effort** | LangGraph, Python, LLMs |
+| [🎯 Sarthi](https://github.com/tushartime/Sarthi) | AI-powered webinar & sales platform — **45% higher lead conversion** via voice AI agents | Next.js, Node.js, Vapi AI, PostgreSQL |
 
 <p align="center">
   <a href="https://github.com/tushartime?tab=repositories">
